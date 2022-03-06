@@ -1,4 +1,4 @@
-<h3>Hi Guys, I'm Orlando Bernardi :P</h3><br>
+<h3>Hi Guys I'm Orlando Bernardi :P</h3><br>
 ♡Trainee Web Dev♡ <br>
 Cwb
 
