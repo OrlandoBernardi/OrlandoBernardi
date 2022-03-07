@@ -3,9 +3,9 @@
 Cwb
 
 While caffeination < enough:<br>
-  drink_coffee()<br>
-  if caffeination >= enough:<br>
-      drink_coffee()
+-drink_coffee()<br>
+--if caffeination >= enough:<br>
+---drink_coffee()
       
      
   <a href="https://github.com/OrlandoBernardi">
